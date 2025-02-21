@@ -63,6 +63,6 @@ yarn preview
 
 ## Deployment
 The app is deployed at:
-[Live Demo](https://your-deployed-app-url.com)
+[Live Demo](https://quiz-application-sigma-three.vercel.app/)
 
 
