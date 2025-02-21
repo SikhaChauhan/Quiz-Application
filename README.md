@@ -15,32 +15,32 @@ An interactive quiz platform built using **React, TypeScript, and Vite**. This a
 
 ### Prerequisites
 Ensure you have the following installed:
-- **Node.js** (LTS version recommended)
-- **npm** or **yarn**
+- Node.js
+- npm or yarn
 
 ### Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```sh
    git clone https://github.com/SikhaChauhan/Quiz-Application.git
    cd Quiz-Application
    ```
 
-2. **Install dependencies:**
+2. Install dependencies:
    ```sh
    npm install
    # or
    yarn install
    ```
 
-3. **Start the development server:**
+3. Start the development server:
    ```sh
    npm run dev
    # or
    yarn dev
    ```
 
-4. **Open the app in your browser:**
+4. Open the app in your browser:
    ```
    http://localhost:5173
    ```
